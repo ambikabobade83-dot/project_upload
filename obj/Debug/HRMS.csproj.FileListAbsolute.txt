@@ -1,0 +1,59 @@
+C:\C# Projects\HRMS\HRMS\bin\Debug\HRMS.exe
+C:\C# Projects\HRMS\HRMS\bin\Debug\HRMS.pdb
+C:\C# Projects\HRMS\HRMS\obj\Debug\ResolveAssemblyReference.cache
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AddEmployee.resources
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AddEmployeeSalary.resources
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AddProjects.resources
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AdminChangePassword.resources
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AdminDashboard.resources
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AminstratorLogin.resources
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.EmployeeReport.resources
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.Form1.resources
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.Project_Report.resources
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.Properties.Resources.resources
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.SalaryReport.resources
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.csproj.GenerateResource.Cache
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.exe
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.pdb
+C:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AboutUs.resources
+D:\C# Projects\HRMS\HRMS\bin\Debug\HRMS.exe.config
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.exe
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.pdb
+D:\C# Projects\HRMS\HRMS\bin\Debug\HRMS.exe
+D:\C# Projects\HRMS\HRMS\bin\Debug\HRMS.pdb
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.csprojResolveAssemblyReference.cache
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AboutUs.resources
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AddEmployee.resources
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AddEmployeeSalary.resources
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AddProjects.resources
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AdminChangePassword.resources
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AdminDashboard.resources
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.AminstratorLogin.resources
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.EmployeeReport.resources
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.Form1.resources
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.Project_Report.resources
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.Properties.Resources.resources
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.SalaryReport.resources
+D:\C# Projects\HRMS\HRMS\obj\Debug\HRMS.csproj.GenerateResource.Cache
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\bin\Debug\HRMS.exe.config
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.exe
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.pdb
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\bin\Debug\HRMS.exe
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\bin\Debug\HRMS.pdb
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.csprojResolveAssemblyReference.cache
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.AboutUs.resources
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.AddEmployee.resources
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.AddEmployeeSalary.resources
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.AddProjects.resources
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.AdminChangePassword.resources
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.AdminDashboard.resources
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.AminstratorLogin.resources
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.EmployeeReport.resources
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.Form1.resources
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.Project_Report.resources
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.Properties.Resources.resources
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.SalaryReport.resources
+C:\Users\bsc22\Desktop\Sangeeta\M. Sc. C# Projects of 2024-25\HRMS\HRMS\obj\Debug\HRMS.csproj.GenerateResource.Cache
+C:\Users\bsc22\Desktop\Sangeeta\BCA C# Project 2025-26\HRMS\HRMS\bin\Debug\HRMS.exe.config
+C:\Users\bsc22\Desktop\Sangeeta\BCA C# Project 2025-26\HRMS\HRMS\obj\Debug\HRMS.exe
+C:\Users\bsc22\Desktop\Sangeeta\BCA C# Project 2025-26\HRMS\HRMS\obj\Debug\HRMS.pdb
